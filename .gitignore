@@ -1,0 +1,6 @@
+/tests/coverage.dat
+/tests/coverage.html
+/vendor/
+/composer.lock
+/tests/output/
+/nbproject/

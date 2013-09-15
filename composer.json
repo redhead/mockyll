@@ -1,0 +1,18 @@
+{
+    "name": "redhead/mockyll",
+    "description": "Mocking library for PHP (>= 5.4).",
+    "authors": [
+        {
+            "name": "Radek Ježdík"
+        }
+    ],
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "nette/tester": "@dev"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
